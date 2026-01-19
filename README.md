@@ -17,7 +17,7 @@ An interactive dashboard that analyzes sentiment from market-related text data (
 ## 🔧 Installation & Setup
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/sindhukodati/Market-sentiment-Analysis-Dashboard.git
+git clone https://github.com/varun1219c/Market-sentiment-Analysis-Dashboard.git
 cd Market-sentiment-Analysis-Dashboard
 ### 2️⃣ Create a Virtual Environment (Recommended)
 python -m venv venv
