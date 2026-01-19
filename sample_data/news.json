@@ -1,0 +1,23 @@
+[
+  {
+    "title": "XYZ completes acquisition of French firm with €5B turnover",
+    "text": "XYZ announced it has acquired a leading French company with annual turnover of 5 billion euros. Management said synergies will be immediate.",
+    "source": "Reuters",
+    "published": "2025-11-13T09:00:00Z",
+    "url": "https://example.com/article1"
+  },
+  {
+    "title": "XYZ loses €1B contract to competitor",
+    "text": "In a disappointing result, XYZ lost a major contract valued at approximately 1 billion euros to rival ABC.",
+    "source": "Financial Times",
+    "published": "2025-11-12T14:00:00Z",
+    "url": "https://example.com/article2"
+  },
+  {
+    "title": "XYZ reports faster-than-expected reservoir completion",
+    "text": "The project finished in 9 months instead of 12, management highlights efficiency gains.",
+    "source": "CNBC",
+    "published": "2025-11-11T10:00:00Z",
+    "url": "https://example.com/article3"
+  }
+]

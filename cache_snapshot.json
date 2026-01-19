@@ -1,0 +1,61 @@
+{
+  "instrument": "AAPL",
+  "timestamp": 1763131407,
+  "scores": {
+    "overall": -0.09390733504263557,
+    "news": 0.14077471869150798,
+    "social": -0.4908419839668274,
+    "econ": 0.05
+  },
+  "rating": 3,
+  "top_headlines": [
+    "XYZ completes acquisition of French firm with €5B turnover",
+    "XYZ loses €1B contract to competitor",
+    "XYZ reports faster-than-expected reservoir completion"
+  ],
+  "recommendation": "HOLD: Social chatter negative.. Top headline: XYZ completes acquisition of French firm with €5B turnover. Note: Opinion — not financial advice.",
+  "news_items": [
+    {
+      "score": 0.39967639446258546,
+      "title": "XYZ completes acquisition of French firm with €5B turnover",
+      "source": "Reuters",
+      "url": "https://example.com/article1"
+    },
+    {
+      "score": -0.736245392189026,
+      "title": "XYZ loses €1B contract to competitor",
+      "source": "Financial Times",
+      "url": "https://example.com/article2"
+    },
+    {
+      "score": 0.7588931538009644,
+      "title": "XYZ reports faster-than-expected reservoir completion",
+      "source": "CNBC",
+      "url": "https://example.com/article3"
+    }
+  ],
+  "social_items": [
+    {
+      "score": -0.16729935920715333,
+      "text": "Huge news — XYZ just bought a big French company. Bullish!",
+      "source": "twitter"
+    },
+    {
+      "score": -0.8143846087265014,
+      "text": "Disappointed with XYZ after losing that contract. Red flags.",
+      "source": "reddit"
+    }
+  ],
+  "econ_items": [
+    {
+      "score": -0.1,
+      "desc": "Central bank raised rates slightly — mixed market reaction.",
+      "published": "2025-11-10T07:30:00Z"
+    },
+    {
+      "score": 0.2,
+      "desc": "Better-than-expected GDP growth reported in France.",
+      "published": "2025-11-11T08:00:00Z"
+    }
+  ]
+}
